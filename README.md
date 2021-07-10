@@ -1,4 +1,4 @@
-# Resume_Maekdown
+# Resume_Markdown
 # Chandrasekhar Reddy
 ### personal Details
 - Name: Chandrasekhar <br>
